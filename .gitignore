@@ -221,6 +221,5 @@ __marimo__/
 *.csv
 !1_Data_Analytics/aggregated_data/*.csv
 
-# Mengabaikan file model yang terlalu besar (opsional, jika > 100MB)
 *.pkl
 *.joblib
