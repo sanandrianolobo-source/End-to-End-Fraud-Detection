@@ -1,0 +1,12 @@
+"Jaringan_Kartu","Tipe_Kartu","Jumlah_Kasus_Penipuan","Porsi_Dr_Total_Penipuan","Persentase_Kombinasi_Dibobol","Total_Kerugian_IDR","Rata_Rata_Kerugian_IDR"
+visa,debit,7669,37.11,2.55,16093725438.5,2098543.0
+visa,credit,5704,27.60,6.81,14870715252,2607068.0
+mastercard,credit,3511,16.99,6.92,7409025001.5,2110232.0
+mastercard,debit,2985,14.45,2.16,5854932226.5,1961451.0
+discover,credit,500,2.42,7.93,2746221645,5492443.0
+american express,credit,234,1.13,2.86,649034352,2773651.0
+"","",39,0.19,2.49,78293739.5,2007532.0
+discover,debit,14,0.07,4.03,74785175,5341798.0
+american express,debit,5,0.02,3.47,14337500,2867500.0
+"",credit,1,0.00,33.33,4650000.0,4650000.0
+"",debit,1,0.00,11.11,3875000.0,3875000.0
