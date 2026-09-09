@@ -3,7 +3,7 @@
 ## Objective
 This phase focuses on extracting actionable business insights from raw transactional data without relying on predictive modeling. The goal is to provide the executive team with a clear understanding of the financial damage, vulnerable payment instruments, and cyber footprints of the attackers.
 
-## 🛠️ Tech Stack & Workflow
+## Tech Stack & Workflow
 1. **Database Management:** MySQL (Localhost) via DBeaver.
 2. **Data Ingestion & Transformation:** Advanced SQL (LEFT JOIN, Correlated Subqueries, Aggregations) to transform highly normalized raw data into business-ready metrics.
 3. **Data Visualization:** Microsoft Power BI (Zero-Layouting Strategy with Custom Dark Mode UI).
